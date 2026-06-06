@@ -77,13 +77,29 @@
             align-items: center;
             height: 80px;
         }
-        .logo {
+        .logo-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+        }
+        .school-logo {
+            height: 40px; /* Adjust height to fit nicely in 80px header */
+            width: auto;
+            object-fit: contain;
+            border-radius: 4px; /* Slight rounding for better look */
+        }
+        .logo-text {
             font-family: 'Outfit', sans-serif;
-            font-size: 1.5rem;
+            font-size: 0.7rem;
             font-weight: 700;
             background: linear-gradient(135deg, var(--primary), var(--secondary));
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
+            margin-top: 4px;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
         }
         .nav-links {
             display: flex;
@@ -445,7 +461,10 @@
     <!-- Header -->
     <header>
         <div class="container header-content">
-            <div class="logo">DHL.</div>
+            <a href="#" class="logo-container">
+                <img src="z7908751964857_120c0bbe06a0ffe1800ec96a539c6ea4.jpg" alt="Logo Trường" class="school-logo">
+                <span class="logo-text">Digital Portfolio</span>
+            </a>
             <nav class="nav-links">
                 <a href="#about">Giới thiệu</a>
                 <a href="#projects">Sản phẩm</a>
@@ -603,7 +622,10 @@
     <!-- Footer -->
     <footer>
         <div class="container">
-            <div class="logo" style="margin-bottom: 16px;">DHL.</div>
+            <div class="logo-container" style="margin-bottom: 16px;">
+                <img src="z7908751964857_120c0bbe06a0ffe1800ec96a539c6ea4.jpg" alt="Logo Trường" style="height: 40px; object-fit: contain;">
+                <span class="logo-text">Digital Portfolio</span>
+            </div>
             <p class="footer-text" style="margin-bottom: 8px;">Thông tin liên hệ: <a href="mailto:23100291@vnu.edu.vn" style="color: var(--primary); font-weight: 500;">23100291@vnu.edu.vn</a></p>
             <p class="footer-text">© 2025 Đỗ Duy Hoàng Long. Portfolio học phần Nhập môn Công nghệ số.</p>
         </div>
