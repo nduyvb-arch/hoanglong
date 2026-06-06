@@ -1,0 +1,73 @@
+--- bài 1.docx ---
+1.     Mở File Explorer: Nhấn tổ hợp phím Windows + E hoặc nhấp vào biểu tượng thư mục màu vàng trên thanh tác vụ.
+2.     Truy cập ổ đĩa/thư mục: Ở cột bên trái, nhấp vào This PC, sau đó nhấp đúp vào một ổ đĩa không phải ổ hệ thống (ví dụ: ổ D: hoặc E:). Nếu chỉ có ổ C:, hãy vào thư mục Documents.
+3.     Tạo thư mục mới: Nhấp chuột phải vào một khoảng trống -> chọn New -> Folder. Đặt tên thư mục là ThucHanh_hotensinhvien (ví dụ: ThucHanh_NguyenVanA). Nhấn Enter.
+4.     Vào thư mục vừa tạo: Nhấp ...
+
+--- bài 2.docx ---
+ĐẠI HỌC QUỐC GIA HÀ NỘI
+TRƯỜNG ĐẠI HỌC Y DƯỢC
+BÁO CÁO BÀI TẬP 2: TÌM KIẾM VÀ ĐÁNH GIÁ THÔNG TIN HỌC THUẬT
+Học phần: Nhập môn công nghệ số và ứng dụng trí tuệ nhân tạo
+Họ và tên: Đỗ Duy Hoàng Long
+Mã sinh viên: 23100291
+Lớp: Dược B+C
+Hà Nội – 2025
+Chủ đề lựa chọn: Vai trò của metformin trong điều trị đái tháo đường type 2: hiệu quả, an toàn và ý nghĩa trong thực hành dược lâm sàng
+1. Mở đầu
+Trong quá trình học tập ở ngành Dược học, việc tìm kiếm và đánh giá thông tin học thuật là một kỹ năng rất ...
+
+--- bài 3.docx ---
+ĐẠI HỌC QUỐC GIA HÀ NỘI
+TRƯỜNG ĐẠI HỌC Y DƯỢC
+BÁO CÁO BÀI TẬP 2
+Nhóm: 24N19 
+Lớp: Dược B+C
+Khóa: QH.2023.Y
+Họ và tên: Đỗ Duy Hoàng Long
+Hà Nội – 2025
+I. Mở đầu
+Hiện nay, các công cụ AI như ChatGPT đang được sinh viên sử dụng ngày càng nhiều trong học tập. AI có thể hỗ trợ tóm tắt tài liệu, giải thích kiến thức khó, gợi ý cách học và tạo câu hỏi ôn tập. Tuy nhiên, sau khi trải nghiệm thực tế, em nhận thấy chất lượng câu trả lời của AI không chỉ phụ thuộc vào công cụ mà còn phụ thuộc rất nhiều vào...
+
+--- bài 4.docx ---
+ĐẠI HỌC QUỐC GIA HÀ NỘI
+TRƯỜNG ĐẠI HỌC Y DƯỢC
+BÁO CÁO BÀI TẬP 4
+Nhóm        : 20
+Lớp            : Dược B+C
+Khóa          : QH.2023.Y
+Họ và tên   : Đỗ Duy Hoàng Long
+Học phần   : Nhập môn công nghệ số và ứng dụng trí tuệ nhân tạo
+Tên dự án  : Tuyển thành viên CLB “BẢN HÒA ÂM SẮC MÀU”
+Hà Nội – 2025
+1. Mở đầu
+Trong quá trình học tập hiện nay, việc làm việc nhóm không còn chỉ diễn ra theo hình thức gặp mặt trực tiếp mà đã chuyển dần sang môi trường số. Điều này đặc biệt rõ khi sinh viên cần phối hợp...
+
+--- bài 5.docx ---
+ĐẠI HỌC QUỐC GIA HÀ NỘI
+TRƯỜNG ĐẠI HỌC Y DƯỢC
+BÁO CÁO BÀI TẬP 2
+Nhóm        : 20
+Lớp            : Dược B+C
+Khóa          : QH.2023.Y
+Họ và tên   : Đỗ Duy Hoàng Long
+Học phần   : Nhập môn công nghệ số và ứng dụng trí tuệ nhân tạo
+Hà Nội – 2025
+I. TỔNG QUAN DỰ ÁN
+Tên dự án: Sáng tạo nội dung truyền thông giáo dục sức khỏe: "Giải mã lầm tưởng về dược liệu Diệp hạ châu".
+Hình thức: Video ngắn (TikTok/Reels/Shorts) thời lượng 60 giây.
+Mục tiêu: Ứng dụng kết hợp đa công cụ AI tạo sinh (văn bản, hình ả...
+
+--- bài 6.docx ---
+ĐẠI HỌC QUỐC GIA HÀ NỘI
+TRƯỜNG ĐẠI HỌC Y DƯỢC
+BÁO CÁO BÀI TẬP 6
+Nhóm        : 20
+Lớp            : Dược B+C
+Khóa          : QH.2023.Y
+Họ và tên   : Đỗ Duy Hoàng Long
+Học phần   : Nhập môn công nghệ số và ứng dụng trí tuệ nhân tạo
+Hà Nội – 2025
+MỤC TIÊU BÁO CÁO
+Trí tuệ nhân tạo (AI) tạo sinh, đặc biệt là các mô hình ngôn ngữ lớn (LLM), đang tạo nên một cuộc cách mạng sâu sắc trong giáo dục đại học toàn cầu và tại Việt Nam. Trong lĩnh vực đào tạo Khoa học Sức khỏe—nơi tri thức đòi hỏi tính chính xá...
+
